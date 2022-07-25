@@ -1,4 +1,4 @@
-# sobre mim
+# Hi there
 # oi, me chama Isadora Dubek
 Atualmente estudo no CECMPS 
 Atualmente estou aprendendo programação no SCRATH e JAVACRIPT; 
