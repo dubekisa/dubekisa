@@ -1,5 +1,5 @@
 # Hi there
-# oi, me chama Isadora Dubek
+# oi, me chamo Isadora Dubek
 Atualmente estudo no CECMPS 
 Atualmente estou aprendendo programação no SCRATH e JAVACRIPT; 
 Instagram: @isadoradubek
